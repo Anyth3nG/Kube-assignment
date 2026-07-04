@@ -48,7 +48,9 @@ the browser url for the app will be `http://webapp.local`
 
 ## Proof of deployment
 
+![App screenshot](nginx.png)
 
+![App screenshot](terminal.png)
 
 ## Written questions
 
